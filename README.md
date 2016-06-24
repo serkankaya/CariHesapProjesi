@@ -1,5 +1,5 @@
 # CariHesapProjesi
-Mysql-Java Examples ...
+Mysql-Java Examples ...(Swing)
 
 
 Default Software Informations ;
