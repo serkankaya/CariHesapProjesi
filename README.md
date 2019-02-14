@@ -25,3 +25,6 @@ Jar File name     :swingx-all-1.6.4
 
 ![alt text](5.jpeg "Project Photo 5")
 
+
+MIT License
+
